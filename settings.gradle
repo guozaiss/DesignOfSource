@@ -1,1 +1,1 @@
-include ':app', ':singleton', ':builder', ':prototype', ':factory', ':stragety', ':state', ':chainofresponsibility', ':explain', ':command'
+include ':app', ':singleton', ':builder', ':prototype', ':factory', ':stragety', ':state', ':chainofresponsibility', ':explain', ':command', ':observer'
